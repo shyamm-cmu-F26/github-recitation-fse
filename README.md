@@ -1,3 +1,2 @@
 # github-recitation-fse
-Recitation Demo
-Shyam was here
+In-n-out has the best burgers!
